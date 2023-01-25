@@ -22,7 +22,7 @@ Programming Languages:
 
 # ENTITIES
 
-There will be totaly 19 database tables for "Textile E-Commerce App".It is details will be bottom as a table name and their attributes.
+There will be totaly 20 database tables for "Textile E-Commerce App".It is details will be bottom as a table name and their attributes.
 
 ## admins
 
