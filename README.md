@@ -19,3 +19,11 @@ Programming Languages:
 * JAVA - Spring Framework (back-end development)
 * PostgreSQL (database management)
 * API design and development (e.g. Swagger)
+
+# ENTITIES
+
+There will be totaly 19 database tables for "Textile E-Commerce App".It is details will be bottom as a table name and their attributes.
+
+| admin_id  | date_of_register | email | first_name | last_name  | password | First Header  | Second Header |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
